@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="3.3640324"
-     inkscape:cx="591.99787"
-     inkscape:cy="117.26998"
+     inkscape:zoom="1.6820162"
+     inkscape:cx="238.1071"
+     inkscape:cy="60.344246"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
@@ -246,7 +246,7 @@
          style="opacity:1;fill:#ea95ff;fill-opacity:1;stroke-width:2.065;stroke-linecap:square"
          d="m 391.29911,775.0576 c -0.59177,0.0204 -1.09812,0.5271 -1.36942,1.04799 -0.41341,0.79375 -0.0496,3.853 -0.0496,3.853 h 1.35599 l 0.0165,-1.85208 0.56224,-0.0331 0.0661,1.9017 1.48828,-0.0661 c 0,0 -0.11576,-3.47266 -1.09141,-4.41524 -0.33537,-0.32401 -0.66877,-0.44682 -0.97875,-0.43614 z m 0.1757,1.36064 c 0.025,-6.6e-4 0.0506,0.015 0.076,0.0512 0.23177,0.33073 0.19792,1.04644 0.19792,1.04644 h -0.66146 c 0,0 0.18367,-1.09225 0.38757,-1.0976 z" /></g><g
        id="g31"
-       transform="matrix(0,0.71382041,-0.71382041,0,727.51754,-238.73699)"
+       transform="matrix(0,0.71382041,-0.71382041,0,727.51754,-238.73698)"
        style="fill:#201a2c;fill-opacity:1"><path
          style="opacity:1;fill:#201a2c;fill-opacity:1;stroke-width:2.065;stroke-linecap:square"
          d="m 352.58028,775.1248 v 4.73567 h 1.08746 v -3.07525 l 0.46771,0.43262 0.37417,-0.42095 v 3.08697 h 1.04069 v -4.96954 h -0.59635 l -0.79512,1.0173 -0.94713,-0.95882 z"
@@ -295,4 +295,10 @@
          id="path1146" /><path
          style="opacity:1;fill:#ea95ff;fill-opacity:1;stroke:none;stroke-width:3.74013;stroke-linecap:square;stroke-opacity:1"
          d="m 134.31084,16.622376 1.09564,8.384864 4.19874,-0.0296 1.01175,-8.355267 z"
-         id="path1153" /></g></g></svg>
+         id="path1153" /></g><path
+       style="opacity:0.585827;fill:#ffffff;stroke:#ea95ff;stroke-width:0.0436562;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.903119,-0.55055457 V 55.836864"
+       id="path3" /><path
+       style="opacity:1;fill:#201a2c;stroke:#201a2c;stroke-width:0.0436562;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 166.29538,-0.55055457 V 55.836864"
+       id="path4" /></g></svg>
