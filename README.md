@@ -7,10 +7,6 @@
 Welcome to the **FOSSCOMM 2024 Brand Assets Repository**! 🎉  
 This repository contains all the official branding materials for FOSSCOMM 2024. It is designed to make it easy for contributors, organizers, and participants to access and utilize event assets.  
 
-The application consists of two main components:
-- The backend: A FastAPI-based REST API that handles the analysis and provides the necessary endpoints.
-- The frontend: A React-based user interface that allows users to interact with the analysis results.
-
 ## 📝 Usage
 These assets are licensed under an open-source license to encourage reuse and adaptation.  
 ### Guidelines for Use:
